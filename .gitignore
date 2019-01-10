@@ -85,3 +85,11 @@ tests/*.sh.trs
 tests/*.tap
 checkmk/*.log
 checkmk/test/*.log
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
